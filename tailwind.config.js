@@ -10,6 +10,10 @@ module.exports = {
         'money': '0.25em 0.5em 3em rgb(255 213 48 / 80%)',
       }
     },
+    screens: {
+			sm: { max: "414px" },
+			// => @media (max-width: 639px) { ... }
+		},
   },
   plugins: [],
 }

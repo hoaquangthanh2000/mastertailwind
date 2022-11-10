@@ -8,11 +8,15 @@ module.exports = {
       },
       boxShadow: {
         'money': '0.25em 0.5em 3em rgb(255 213 48 / 80%)',
+      },
+      backgroundImage: {
+        'home': "url('../public/image/Rectangle 2.png')",
       }
     },
     screens: {
 			sm: { max: "414px" },
-			// => @media (max-width: 639px) { ... }
+			// => @media (max-width: 639px) { ... },
+      lg: {min:"1024px"}
 		},
   },
   plugins: [],

@@ -3,6 +3,7 @@
     <Header/>
     <Content1/>
     <Content2/>
+    <Content3/>
   </div>
 </template>
 

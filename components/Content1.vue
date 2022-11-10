@@ -1,7 +1,10 @@
 <template>
     <div class="w-full relative">
         <div class="bg-slate-50 -z-20 absolute w-full h-full px-0 backdrop-blur-[65px] "></div>
-        <div class="py-5 flex flex-row relative w-full h-full px-36 sm:px-0 sm:flex-col">
+        <div class="sm:backdrop-blur-[65px] sm:w-full sm:h-full sm:px-0 hidden sm:block sm:top-[115px] sm:-z-20 sm:-rotate-4 sm:-left-2  sm:absolute">
+            <img src="../public/image/Rectangle 2.png" class="w-full h-full  alt="">
+        </div>
+        <div class="py-5 flex flex-row relative w-full h-full px-36 sm:px-0 sm:flex-col ">
             <div class="sm:hidden absolute top-[50%] left-[50%] bg-blue-600 w-[500px] h-[500px] opacity-[25%] rounded-full -z-30 -translate-x-1/2 -translate-y-1/2">     
             </div>
             <div class="flex-1 text-center py-20 flex-col sm:p-0">

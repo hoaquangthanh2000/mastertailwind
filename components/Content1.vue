@@ -2,7 +2,7 @@
     <div class="w-full relative">
         <div class="bg-slate-50 -z-20 absolute w-full h-full px-0 backdrop-blur-[65px] "></div>
         <div class="sm:backdrop-blur-[65px] sm:w-full sm:h-full sm:px-0 hidden sm:block sm:top-[115px] sm:-z-20 sm:-rotate-4 sm:-left-2  sm:absolute">
-            <img src="../public/image/Rectangle 2.png" class="w-full h-full  alt="">
+            <img src="../public/image/Rectangle2.png" class="w-full h-full  alt="">
         </div>
         <div class="py-5 flex flex-row relative w-full h-full px-36 sm:px-0 sm:flex-col ">
             <div class="sm:hidden absolute top-[50%] left-[50%] bg-blue-600 w-[500px] h-[500px] opacity-[25%] rounded-full -z-30 -translate-x-1/2 -translate-y-1/2">     
@@ -23,7 +23,7 @@
                     </div>
                     <div class="relative sm:hidden">
                         <div>
-                            <img src="../public/image/Rectangle 159.png" class="absolute top-3 left-3 z-10"  alt="">
+                            <img src="../public/image/Rectangle159.png" class="absolute top-3 left-3 z-10"  alt="">
                             <img src="../public/image/Frame.png" class="absolute left-16 -top-16 scale-75"  alt="">
     
                         </div>
@@ -34,12 +34,12 @@
                 <div>
                     <div class="absolute -top-14 -left-[17%] scale-[0.8]">
                         <span>
-                            <img src="../public/image/Frame (1).png" alt="">
+                            <img src="../public/image/Frame(1).png" alt="">
                         </span>
                     </div>
                     <div class="absolute -top-4 w-1/2 left-[8%] sm:w-4/5 w-2/5 sm:left-[10%] sm:top-0">
                         <span>
-                            <img src="../public/image/XMLID_19_.png" alt="">
+                            <img src="../public/image/XMLID19.png" alt="">
                         </span>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                                 <div class="text-sm">
                                     <p class="inline-block opacity-70 ">1.20633
                                     </p>
-                                    <img src="../public/image/Vector 3.jpg" class="w-10 inline-block" alt="">
+                                    <img src="../public/image/Vector3.jpg" class="w-10 inline-block" alt="">
                                 </div>
                             </div>
                         </div>

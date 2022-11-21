@@ -4,12 +4,12 @@
             <img class="py-4 " src="../public/image/chuyentien.jpg" alt="">
         </div>
         <ul class="block leading-[5rem] sm:hidden ">
-            <li class="inline-block px-2 text-base relative ">
+            <li class="inline-block px-2 text-base relative cursor-pointer">
                 Trang chủ
                 <div class="border-home"></div>
             </li>
-            <li class="inline-block px-2 text-base">Gửi tiền</li>
-            <li class="inline-block px-2 text-base">Về chúng tôi</li>
+            <li class="inline-block px-2 text-base cursor-pointer">Gửi tiền</li>
+            <li class="inline-block px-2 text-base cursor-pointer">Về chúng tôi</li>
         </ul>
         <div class="flex items-center">
             <button class="border-2 rounded-[3rem] h-10 my-7 px-5 mx-2 font-semibold sm:border-none sm:text-yellow-500 sm:mx-0">Đăng nhập</button>

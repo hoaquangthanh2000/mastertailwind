@@ -33,7 +33,7 @@
                 </div>
                 <div class="flex items-center flex-row flex-1 sm:px-4">
                     <div class="flex">
-                        <img src="../Public/image/Group(2).png" class="h-16" />
+                        <img src="../Public/image/Group2.png" class="h-16" />
                     </div>
                     <div class="flex flex-1 flex-col p-5">
                         <div class="bg-yellow-500 text-xs text-center flex justify-center w-12">Security</div>

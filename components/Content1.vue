@@ -37,13 +37,13 @@
                             <img src="../public/image/Frame (1).png" alt="">
                         </span>
                     </div>
-                    <div class="absolute -top-4 w-1/2 left-[8%] sm:w-4/5 sm:left-[10%] sm:top-0">
+                    <div class="absolute -top-4 w-1/2 left-[8%] sm:w-4/5 w-2/5 sm:left-[10%] sm:top-0">
                         <span>
                             <img src="../public/image/XMLID_19_.png" alt="">
                         </span>
                     </div>
                 </div>
-                <div class="rounded-2xl w-[400px] backdrop-blur-[42px] p-8 border-white border-solid border sm:w-[92%] sm:m-auto sm:shadow-sm  ">
+                <div class="rounded-2xl sm:w-[400px] w-[450px] backdrop-blur-[42px] p-8 border-white border-solid border sm:w-[92%] sm:m-auto sm:shadow-sm  ">
                     <div class="flex py-1 flex-row rounded-lg">
                         <div class=" bg-white flex flex-col w-2/3">
                             <p class=" flex pl-5 justify-start">Số tiền gửi</p>

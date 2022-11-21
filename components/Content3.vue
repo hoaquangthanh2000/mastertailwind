@@ -32,9 +32,9 @@
         </div>
         <div class="sm:grid sm:grid-rows-2 sm:text-end sm:gap-1 sm:flex-1">
             <div class="font-semibold">1.185.00 EUR</div>
-            <div class="sm:text-sm sm:relative text-red-600 ">
+            <div class="sm:text-sm relative text-red-600 ">
                 -7.64 EUR
-                <img src="../public/image/downred.png" class="sm:absolute sm:top-2 sm:left-[115px]"  alt="">
+                <img src="../public/image/downred.png" class="absolute sm:top-2 sm:left-[115px] left-[180px] top-[0.6rem]"  alt="">
             </div>
         </div>
         <div class="sm:hidden">10.00 AUD</div>
@@ -48,9 +48,9 @@
         </div>
         <div class="sm:grid sm:grid-rows-2 sm:text-end sm:gap-1 sm:flex-1">
             <div class="font-semibold">1.185.00 EUR</div>
-            <div class="sm:text-sm sm:relative text-red-600 ">
+            <div class="sm:text-sm relative text-red-600 ">
                 -7.64 EUR
-                <img src="../public/image/downred.png" class="sm:absolute sm:top-2 sm:left-[115px]"  alt="">
+                <img src="../public/image/downred.png" class="absolute sm:top-2 sm:left-[115px] left-[180px] top-[0.6rem]"  alt="">
             </div>
         </div>
         <div class="sm:hidden">10.00 AUD</div>
@@ -64,9 +64,9 @@
         </div>
         <div class="sm:grid grid-rows-2 sm:text-end sm:gap-1 sm:flex-1">
             <div class="font-semibold">1.185.00 EUR</div>
-            <div class="sm:text-sm sm:relative text-red-600 ">
+            <div class="sm:text-sm relative text-red-600 ">
                 -7.64 EUR
-                <img src="../public/image/downred.png" class="sm:absolute sm:top-2 sm:left-[115px]"  alt="">
+                <img src="../public/image/downred.png" class="absolute sm:top-2 sm:left-[115px] left-[180px] top-[0.6rem]"  alt="">
             </div>
         </div>
         <div class="sm:hidden">30.00 AUD </div>
@@ -80,9 +80,9 @@
         </div>
         <div class="sm:grid sm:grid-rows-2 sm:text-end sm:gap-1 sm:flex-1">
             <div class="font-semibold">1.185.00 EUR</div>
-            <div class="sm:text-sm sm:relative text-red-600 ">
+            <div class="sm:text-sm relative text-red-600 ">
                 -7.64 EUR
-                <img src="../public/image/downred.png" class="sm:absolute sm:top-2 sm:left-[115px]"  alt="">
+                <img src="../public/image/downred.png" class="absolute sm:top-2 sm:left-[115px] left-[180px] top-[0.6rem] "  alt="">
             </div>
         </div>
         <div class="sm:hidden">20.00 AUD </div>

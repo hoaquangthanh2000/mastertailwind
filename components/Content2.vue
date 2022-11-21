@@ -24,7 +24,7 @@
             <div class="flex flex-row items-start sm:block">
                 <div class="flex items-center flex-row flex-1 px-4 sm:mx-2">
                     <div class="flex">
-                        <img src="../Public/image/group1.png" class="h-16" />
+                        <img src="../public/image/group1.png" class="h-16" />
                     </div>
                     <div class="flex flex-1 flex-col p-5">
                         <div class="bg-yellow-500 text-xs text-center flex justify-center w-12">Security</div>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="flex items-center flex-row flex-1 sm:px-4">
                     <div class="flex">
-                        <img src="../Public/image/group2.png" class="h-16" />
+                        <img src="../public/image/group2.png" class="h-16" />
                     </div>
                     <div class="flex flex-1 flex-col p-5">
                         <div class="bg-yellow-500 text-xs text-center flex justify-center w-12">Security</div>

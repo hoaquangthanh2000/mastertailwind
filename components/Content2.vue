@@ -15,7 +15,7 @@
                 <div class="text-2xl font-bold sm:text-xl">Hãy để chúng tôi làm điều đó giúp bạn và những người thân yêu</div>
             </div>
             <div class="hidden sm:block ">
-                <img src="../public/image/Frame947.png" class="sm:-ml-12 sm:max-w-[127%]" alt="">
+                <img src="../public/image/Frame947.png" class="sm:-ml-12 sm:max-w-[127%]" />
             </div>
             <div class="flex my-6 flex-col items-start sm:block sm:pl-3">
                 <div class="text-sm font-semibold ">Chuyển đổi tiền với mệnh giá thấp nhất</div>
@@ -24,7 +24,7 @@
             <div class="flex flex-row items-start sm:block">
                 <div class="flex items-center flex-row flex-1 px-4 sm:mx-2">
                     <div class="flex">
-                        <img src="../Public/image/Group(1).png" class="h-16" alt="">
+                        <img src="../Public/image/Group1.png" class="h-16" />
                     </div>
                     <div class="flex flex-1 flex-col p-5">
                         <div class="bg-yellow-500 text-xs text-center flex justify-center w-12">Security</div>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="flex items-center flex-row flex-1 sm:px-4">
                     <div class="flex">
-                        <img src="../Public/image/Group(2).png" class="h-16" alt="">
+                        <img src="../Public/image/Group(2).png" class="h-16" />
                     </div>
                     <div class="flex flex-1 flex-col p-5">
                         <div class="bg-yellow-500 text-xs text-center flex justify-center w-12">Security</div>
